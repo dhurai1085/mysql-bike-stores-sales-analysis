@@ -43,12 +43,19 @@ SQL Concepts Used
 This project demonstrates strong SQL fundamentals and intermediate/advanced concepts:
 
 ✅ SELECT, WHERE, ORDER BY, LIMIT
+
 ✅ JOINS (INNER JOIN, LEFT JOIN, RIGHT JOIN)
+
 ✅ GROUP BY & HAVING
+
 ✅ Aggregate Functions (SUM, AVG)
+
 ✅ Window Functions (DENSE_RANK, ROW_NUMBER)
+
 ✅ Date Functions (MONTHNAME, filtering by date range)
+
 ✅ Stored Procedures
+
 ✅ Table Alteration & Updates
 
 Advanced Analysis
@@ -72,11 +79,15 @@ OrdersByProductName(prod_name) → Filters orders by product
 🛠️ Tools Used
 
 MySQL
+
 MySQL Workbench
 
 Key Learnings
 
 Writing efficient multi-table joins
+
 Using window functions for ranking and insights
+
 Creating reusable stored procedures
+
 Transforming raw data into meaningful business insights
